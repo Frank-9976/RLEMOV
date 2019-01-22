@@ -1,10 +1,8 @@
-Filename:PLAY
+Filename:STEP
 "FRAMES"?„AŸ
-"DELAY"?„BŸ
 Lbl MŸ
 For 1„I To AŸ
 ClrGraphŸ
-RclPict IŸ
-For 1„O To B:NextŸ
+RclPict Iÿ
 NextŸ
 Goto M
