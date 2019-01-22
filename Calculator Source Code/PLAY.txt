@@ -1,0 +1,9 @@
+Filename:PLAY
+"FRAMES"?„AŸ
+Lbl MŸ
+For 1„I To AŸ
+ClrGraphŸ
+RclPict IŸ
+sin sin sin sin sin sin sin sin sin sin sin sin sin sin sin 1Ÿ
+NextŸ
+Goto M
