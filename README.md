@@ -16,6 +16,6 @@ RLEMOV-M Deletes listfile to save memory while parsing.
 PLAY Plays frames. You can specify how much delay you want as well, via for loop.  
 STEP Steps over frames.  
 
-Tested on the CASIO FX-9750GII.  
 Notes:  
+Only tested on the CASIO FX-9750GII.  
 You may need to turn Axes Off in the Graph SET UP Menu.
