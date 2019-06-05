@@ -1,0 +1,30 @@
+Filename:RLEMOV
+AxesOffÙ
+BG-NoneÙ
+"FRAMES"?ãAÙ
+For 1ãL To AÙ
+ClrGraphÙ
+º6.3ãXÙ
+3.1ãYÙ
+List L[1]Á10-6.4ãWÙ
+List L[2]ãCÙ
+For 3ãI To Dim List LÙ
+List L[I]Á10ãRÙ
+If X+RÉWÙ
+Then C×F-Line X,Y,X+R-.1,YÙ
+X+RãXÙ
+Else X+RãXÙ
+C×F-Line X-R,Y,W,YÙ
+X-(W+6.4)ãXÙ
+While X>WÙ
+X-(W+6.4)ãXÙ
+Y-.1ãYÙ
+C×F-Line º6.3,Y,W,YÙ
+WhileEndÙ
+Y-.1ãYÙ
+C×F-Line º6.3,Y,X-.1,YÙ
+IfEndÙ
+1-CãCÙ
+NextÙ
+StoPict LÙ
+Next
