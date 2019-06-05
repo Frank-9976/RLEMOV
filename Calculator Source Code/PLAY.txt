@@ -1,0 +1,10 @@
+Filename:PLAY
+"FRAMES"?„AŸ
+"DELAY"?„BŸ
+Lbl MŸ
+For 1„I To AŸ
+ClrGraphŸ
+RclPict IŸ
+For 1„O To B:NextŸ
+NextŸ
+Goto M
