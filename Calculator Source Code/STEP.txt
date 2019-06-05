@@ -1,8 +1,0 @@
-Filename:STEP
-"FRAMES"?„AŸ
-Lbl MŸ
-For 1„I To AŸ
-ClrGraphŸ
-RclPict Iÿ
-NextŸ
-Goto M
