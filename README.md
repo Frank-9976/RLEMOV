@@ -13,7 +13,7 @@ Online Converter is the source code for the glitch website used to convert image
 PROGRAMS (For each one, specify how many frames it should expect.)  
 RLEMOV Standard parser of RLEMOV listfile.  
 RLEMOV-M Deletes listfile to save memory while parsing.  
-RLEMOV-2 New parser for the creatively-named RLEMOV2 files. They are about half as large.
+RLEMOV-2 New parser for the creatively-named RLEMOV2 files. They are about half as large.  
 PLAY Plays frames. You can specify how much delay you want as well, via for loop.  
 STEP Steps over frames.  
 
