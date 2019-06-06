@@ -18,5 +18,5 @@ STEP Steps over frames.
 
 Notes:  
 Only tested on the CASIO FX-9750GII.  
-You may need to turn Axes Off in the Graph SET UP Menu.
+You may need to turn Axes Off in the Graph SET UP Menu.  
 https://glitch.com/~rlemov contains the source code for the online converter.
