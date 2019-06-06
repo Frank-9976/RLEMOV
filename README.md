@@ -24,4 +24,4 @@ https://glitch.com/~rlemov contains the source code for the online converter.
 Any old resources will have the original RLEMOV, not RLEMOV2.  
 If the listfile is still too big, then I suggest doing it in 2 or so batches;  
 Each time, make sure to offset the storage of the picture in the code.  
-i.e. StoPict LÙ -> StoPict L+10Ù
+i.e. StoPict L -> StoPict L+10
