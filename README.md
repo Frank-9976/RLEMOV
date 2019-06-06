@@ -13,7 +13,7 @@ Online Converter is the source code for the glitch website used to convert image
 PROGRAMS (For each one, specify how many frames it should expect.)  
 RLEMOV Standard parser of RLEMOV listfile.  
 RLEMOV-M Deletes listfile to save memory while parsing.  
-RLEMOV-2 New parser for the creatively-named RLEMOV2 files. They are about half as large.  
+RLEMOV-2 New parser for the creatively-named RLEMOV2 files. They are about half as large, but they take longer to draw.  
 PLAY Plays frames. You can specify how much delay you want as well, via for loop.  
 STEP Steps over frames.  
 
@@ -21,4 +21,7 @@ Notes:
 Only tested on the CASIO FX-9750GII.  
 You may need to turn Axes Off in the Graph SET UP Menu.  
 https://glitch.com/~rlemov contains the source code for the online converter.  
-Any old resources will have the original RLEMOV, not RLEMOV2.
+Any old resources will have the original RLEMOV, not RLEMOV2.  
+If the listfile is still too big, then I suggest doing it in 2 or so batches;  
+Each time, make sure to offset the storage of the picture in the code.  
+i.e. StoPict LÙ -> StoPict L+10Ù
